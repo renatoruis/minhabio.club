@@ -1,0 +1,75 @@
+.container{max-width:540px;margin:auto;}
+.footer{text-align:center;position:absolute;bottom:0;width:100%;}
+.footer p{color:#AAAAAA;font-size:0.8rem;margin-bottom:30px;height:20px;line-height:20px}
+.footer p a{font-family:MavenPro;text-decoration:none;color:#ffffff;font-weight: 600;}
+.footer p a:hover{color:#5F5F5F}
+.glad{margin-top:60px}
+.instabio-ad{color:#333;margin-bottom:40px;font-family:Montserrat-Regular}
+.instabio-ad .ad-ctx{padding:8px 12px 8px 24px;background:#ffffff;width:80%;margin:auto;min-width:320px;}
+.instabio-ad .ad-header{display:flex;justify-content:space-between}
+.instabio-ad a{color:inherit;}
+.instabio-ad .ad-header .ad-logo{height:60px;line-height:60px}
+.instabio-ad .ad-logo img{border-radius:6px;width:40px;height:40px}
+.instabio-ad .ad-logo span{font-size:20px;line-height:40px;padding-left:10px;vertical-align:middle;font-weight:500;}
+.instabio-ad .ad-mark .ad-ad{display:inline-block;width:48px;text-align:center;border:1px solid #007cff;border-radius:6px;vertical-align:top;color:#007cff}
+.instabio-ad .ad-close{padding:0;background-color:rgba(0,0,0,0);margin-left:6px}
+.ad-close .bar1,.ad-close .bar2,.ad-close .bar3{width:25px;height:2px;background-color:#007cff;margin:5px 0;transition:.4s;display:block;position:relative}
+.ad-close .bar1{-webkit-transform:rotate(-44deg) translate(-2px,6px);transform:rotate(-44deg) translate(-2px,6px)}
+.ad-close .bar2{opacity:0}
+.ad-close .bar3{-webkit-transform:rotate(46deg) translate(-4px,-8px);transform:rotate(46deg) translate(-4px,-8px)}
+.instabio-ad .ad-title{padding:10px 0;font-size:24px;width:90%;font-weight:500;}
+.instabio-ad .ad-desc{width:94%;font-size:18px;color:#555;font-weight:400;}
+.instabio-ad .ad-footer{padding:20px 0 20px 0}
+.instabio-ad .ad-footer a{font-family:MavenPro;color:#fff;display:block;width:200px;height:60px;line-height:60px;font-size:24px;background-color:#007cff;text-align:center;border-radius:10px}
+.instabio-ad-darkorange{color:#fff;margin-bottom:40px;font-family:Montserrat-Regular}
+.instabio-ad-darkorange .ad-ctx{padding:8px 12px 8px 24px;background:url(https://upload.statics.fotoee.com/logo/instabio/adsbg-darkorange.png);background-size:cover;width:80%;margin:auto;min-width:320px;}
+.instabio-ad-darkorange .ad-header{display:flex;justify-content:space-between}
+.instabio-ad-darkorange a{color:inherit;}
+.instabio-ad-darkorange .ad-header .ad-logo{height:40px;line-height:40px}
+.instabio-ad-darkorange .ad-logo svg{display:inline-block;width:34px;height:34px;vertical-align:middle;}
+.instabio-ad-darkorange .ad-logo span{font-size:20px;line-height:60px;padding-left:10px;vertical-align:middle;font-weight:500;font-size:17px;}
+.instabio-ad-darkorange .ad-mark .ad-ad{display:inline-block;width:40px;background:#ffead4;height:22px;line-height:22px;text-align:center;vertical-align:top;color:#534949}
+.instabio-ad-darkorange .ad-close{padding:0;background-color:#ffead4;margin-left:6px;height:22px;width:22px;}
+.instabio-ad-darkorange .ad-close .bar1,.instabio-ad-darkorange .ad-close .bar2,.instabio-ad-darkorange .ad-close .bar3{width:22px;height:2px;background-color:#534949;margin:5px 0;transition:.4s;display:block;position:relative}
+.instabio-ad-darkorange .ad-close .bar1{-webkit-transform:rotate(-45deg) translate(-4px,4px);transform:rotate(-45deg) translate(-4px,4px)}
+.instabio-ad-darkorange .ad-close .bar2{opacity:0}
+.instabio-ad-darkorange .ad-close .bar3{-webkit-transform:rotate(45deg) translate(-6px,-7px);;transform:rotate(45deg) translate(-6px,-7px);}
+.instabio-ad-darkorange .ad-title{padding:10px 0;font-size:22px;width:90%;font-weight:500;}
+.instabio-ad-darkorange .ad-desc{width:94%;font-size:16px;font-weight:400;}
+.instabio-ad-darkorange .ad-footer{padding:20px 0 20px 0}
+.instabio-ad-darkorange .ad-footer a{font-family:MavenPro;color:#fff;display:block;width:134px;height:48px;line-height:48px;font-size:14px;font-weight:600;background-color:#422a2a;text-align:center;border-radius:24px}
+.weblly-ad{left:0;right:0}
+.weblly-ad>div{height:66px;max-width:600px;width:90%;background:#fff;margin:auto;margin-bottom:10px;display:flex;justify-content:space-between}
+.weblly-ad .ad-logo{padding:6px 6px 6px 12px;width:72px;min-width:72px}
+.weblly-ad .ad-info{text-align:left;padding-left:6px;flex:auto}
+.weblly-ad .ad-info-title{margin:0;color:#333;font-weight:600;height:33px;line-height:50px}
+.weblly-ad .ad-info-desc{margin:0;line-height:33px;height:33px;color:#444;font-size:12px}
+.weblly-ad .ad-download{padding:9px 6px}
+.weblly-ad .ad-download a{color:#fff;display:inline-block;height:48px;background:#1bd5ad;border-radius:6px;line-height:48px;padding:0 12px;width:140px;text-align:center}
+.agad{color:#fff;margin-bottom:40px;font-family:Montserrat-Regular}
+.agad .ad-ctx{padding:4px 4px 10px 20px;;background:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(https://upload.statics.fotoee.com/ag/images/adultgamebg.png?imageView2/2/w/400);;background-size:cover;width:80%;margin:auto;min-width:320px;}
+.agad .ad-header{display:flex;justify-content:space-between}
+.agad a{color:inherit;}
+.agad .ad-header .ad-logo{}
+.agad .ad-logo img{border-radius:6px;width:32px;height:32px}
+.agad .ad-logo svg{display:inline-block;width:34px;height:34px;vertical-align:middle;}
+.agad .ad-logo span{font-size:20px;line-height:60px;padding-left:10px;vertical-align:middle;font-weight:500;font-size:17px;}
+.agad .ad-mark .ad-ad{display:inline-block;width:32px;background:rgba(255, 255, 255, .8);height:18px;line-height:18px;text-align:center;vertical-align:top;color:#301822}
+.agad .ad-close{padding:0;background-color:rgba(255, 255, 255, .8);margin-left:6px;height:18px;width:18px;}
+.agad .ad-close .bar1,.agad .ad-close .bar2,.agad .ad-close .bar3{width:18px;height:2px;background-color:#301822;margin:5px 0;transition:.4s;display:block;position:relative}
+.agad .ad-close .bar1{-webkit-transform:rotate(-45deg) translate(-3px,3px);transform:rotate(-45deg) translate(-3px,3px)}
+.agad .ad-close .bar2{opacity:0}
+.agad .ad-close .bar3{-webkit-transform:rotate(45deg) translate(-7px,-8px);;transform:rotate(45deg) translate(-7px,-8px);}
+.agad .ad-title{padding:10px 0;font-size:22px;width:90%;font-weight:500;}
+.agad .ad-desc{width:94%;font-size:16px;font-weight:400;}
+.agad .ad-footer{padding:20px 0 20px 0}
+.agad .ad-footer a{font-family:MavenPro;color:#fff;display:inline-block;min-width:120px;height:40px;line-height:40px;font-size:14px;font-weight:600;background-color:#FC388A;text-align:center;border-radius:20px}
+@media (max-width: 414px){
+    .weblly-ad>div{height:60px;max-width:576px;width:100%;background:#fff;margin:auto;margin-bottom:10px;display:flex;justify-content:space-between}
+    .weblly-ad .ad-logo{padding:8px 0;width:50px;min-width:50px}
+    .weblly-ad .ad-info{text-align:left;padding-left:2px;flex:auto}
+    .weblly-ad .ad-info-title{margin:0;color:#333;font-weight:600;height:30px;line-height:44px}
+    .weblly-ad .ad-info-desc{margin:0;line-height:30px;height:30px;color:#444;font-size:12px;white-space:nowrap;}
+    .weblly-ad .ad-download{padding:8px 6px}
+    .weblly-ad .ad-download a{color:#fff;display:inline-block;height:42px;background:#1bd5ad;border-radius:6px;line-height:42px;padding:0 12px;width:124px;text-align:center;font-size:14px;}
+}
